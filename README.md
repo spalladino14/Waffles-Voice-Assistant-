@@ -4,3 +4,5 @@ Waffles is a voice assistant that I have been working on to be run on a Rasberry
 To set up Waffles, first run SaveFaces file in Python. For each face you want to have in your model, you need to rerun the program and assign each person a unique id number. Once all the faces are saved, train the model using the FaceTrainer file in python. Finally, open the face recognizer file in python and match up your models face id numbers with the name you would like. 
 
 You should then be able to open waffles file in python. He/she listens for specific phrases and answers with a specific response. To use the face recognition motivator. All you have to do you is say "I need motivation". Be following the same code layout, you could pretty easily add far more commands then Waffles currently has, as he/she is a major work in progress. 
+
+Alot of time has been put into this and I have used multiple tutorials and things to help me through bugs and error. I will try to list all the sources that have helped me with this work in progress soon. 
