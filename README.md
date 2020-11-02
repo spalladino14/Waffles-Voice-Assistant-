@@ -7,4 +7,4 @@ You should then be able to open the Waffles file in python. He/she listens for s
 
 Alot of time has been put into this and I have used multiple tutorials and things to help me through bugs and error. I will try to list all the sources that have helped me with this work in progress soon. 
 
-Here is a youtube video of the current state: https://www.youtube.com/watch?v=P9LVR2YU8Oo
+Here is a youtube video of the current state: https://www.youtube.com/watch?v=uqZ0fvp05Hk
