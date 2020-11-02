@@ -6,3 +6,5 @@ To set up Waffles, first run SaveFaces file in Python. For each face you want to
 You should then be able to open waffles file in python. He/she listens for specific phrases and answers with a specific response. To use the face recognition motivator. All you have to do you is say "I need motivation". Be following the same code layout, you could pretty easily add far more commands then Waffles currently has, as he/she is a major work in progress. 
 
 Alot of time has been put into this and I have used multiple tutorials and things to help me through bugs and error. I will try to list all the sources that have helped me with this work in progress soon. 
+
+Here is a youtube video of the current state: https://www.youtube.com/watch?v=P9LVR2YU8Oo
